@@ -6,6 +6,9 @@ Using HTML, Python (Flask).
 ---------------------
 
 
+![image](https://github.com/thakordixit567/image-to-sketch/blob/master/img/imgsd.png
+)
+
 
 How to clone this peoject in your machine 
 
